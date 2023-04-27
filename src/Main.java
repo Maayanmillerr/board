@@ -1,6 +1,6 @@
 public class Main  {
     public static void main(String[] args) {
-            int i, j;
+             int i, j;
             int row=115;
             int col=119;
             char [][] board = new char[row][col];
